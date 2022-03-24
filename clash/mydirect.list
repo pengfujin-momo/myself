@@ -1,14 +1,36 @@
+# DOMAIN-SUFFIX：域名后缀匹配
 DOMAIN-SUFFIX,5iux.cn
 DOMAIN-SUFFIX,wallhaven.cc
+#vip视频解析
+DOMAIN-SUFFIX,ukzy.ukubf4.com
+DOMAIN-SUFFIX,hey04.789zy.cc
 
+# DOMAIN：域名匹配
+
+# DOMAIN-KEYWORD：域名关键字匹配
 DOMAIN-KEYWORD,oracle 
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,nfmovies
 DOMAIN-KEYWORD,beatstage
 
+# IP-CIDR：IP段匹配
+
+# SRC-IP-CIDR：源IP段匹配
+
+# GEOIP：GEOIP数据库（国家代码）匹配
+
+# DST-PORT：目标端口匹配
 DST-PORT,21
 DST-PORT,22
 DST-PORT,1111
 DST-PORT,2222
 DST-PORT,3333
 DST-PORT,8022
+
+# SRC-PORT：源端口匹配
+
+# PROCESS-NAME：源进程名匹配
+
+# RULE-SET：Rule Provider规则匹配
+
+# MATCH：全匹配
