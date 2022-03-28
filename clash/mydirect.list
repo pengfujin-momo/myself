@@ -1,17 +1,13 @@
 # DOMAIN-SUFFIX：域名后缀匹配
 DOMAIN-SUFFIX,5iux.cn
 DOMAIN-SUFFIX,wallhaven.cc
-# vip视频解析
-#　DOMAIN-SUFFIX,ukubf4.com
-# DOMAIN-SUFFIX,789zy.cc
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,beatstage.com
 
 # DOMAIN：域名匹配
 
 # DOMAIN-KEYWORD：域名关键字匹配
 DOMAIN-KEYWORD,oracle 
-DOMAIN-KEYWORD,cloudflare
-DOMAIN-KEYWORD,nfmovies
-DOMAIN-KEYWORD,beatstage
 DOMAIN-KEYWORD,diyibanzhu
 
 # IP-CIDR：IP段匹配
