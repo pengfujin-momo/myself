@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,beatstage.com
 
 # DOMAIN-KEYWORD：域名关键字匹配
 DOMAIN-KEYWORD,oracle 
-# DOMAIN-KEYWORD,diyibanzhu
+DOMAIN-KEYWORD,diyibanzhu
 
 # IP-CIDR：IP段匹配
 
