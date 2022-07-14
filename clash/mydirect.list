@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,beatstage.com
 
 # DOMAIN-KEYWORD：域名关键字匹配
 DOMAIN-KEYWORD,oracle 
+DOMAIN-KEYWORD,freenom
 DOMAIN-KEYWORD,diyibanzhu
 DOMAIN-KEYWORD,bbs.cdbook
 DOMAIN-KEYWORD,node2.feed43.com
